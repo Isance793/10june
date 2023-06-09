@@ -1,0 +1,15 @@
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise35\bin\Debug\net6.0\exercise35.exe
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise35\bin\Debug\net6.0\exercise35.deps.json
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise35\bin\Debug\net6.0\exercise35.runtimeconfig.json
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise35\bin\Debug\net6.0\exercise35.dll
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise35\bin\Debug\net6.0\exercise35.pdb
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise35\obj\Debug\net6.0\exercise35.csproj.AssemblyReference.cache
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise35\obj\Debug\net6.0\exercise35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise35\obj\Debug\net6.0\exercise35.AssemblyInfoInputs.cache
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise35\obj\Debug\net6.0\exercise35.AssemblyInfo.cs
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise35\obj\Debug\net6.0\exercise35.csproj.CoreCompileInputs.cache
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise35\obj\Debug\net6.0\exercise35.dll
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise35\obj\Debug\net6.0\refint\exercise35.dll
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise35\obj\Debug\net6.0\exercise35.pdb
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise35\obj\Debug\net6.0\exercise35.genruntimeconfig.cache
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise35\obj\Debug\net6.0\ref\exercise35.dll

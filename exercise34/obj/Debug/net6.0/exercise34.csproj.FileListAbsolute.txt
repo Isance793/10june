@@ -1,0 +1,15 @@
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise34\bin\Debug\net6.0\exercise34.exe
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise34\bin\Debug\net6.0\exercise34.deps.json
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise34\bin\Debug\net6.0\exercise34.runtimeconfig.json
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise34\bin\Debug\net6.0\exercise34.dll
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise34\bin\Debug\net6.0\exercise34.pdb
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise34\obj\Debug\net6.0\exercise34.csproj.AssemblyReference.cache
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise34\obj\Debug\net6.0\exercise34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise34\obj\Debug\net6.0\exercise34.AssemblyInfoInputs.cache
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise34\obj\Debug\net6.0\exercise34.AssemblyInfo.cs
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise34\obj\Debug\net6.0\exercise34.csproj.CoreCompileInputs.cache
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise34\obj\Debug\net6.0\exercise34.dll
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise34\obj\Debug\net6.0\refint\exercise34.dll
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise34\obj\Debug\net6.0\exercise34.pdb
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise34\obj\Debug\net6.0\exercise34.genruntimeconfig.cache
+C:\Users\qiqi2\OneDrive\Рабочий стол\Домашки\june10\10june\exercise34\obj\Debug\net6.0\ref\exercise34.dll
